@@ -11,3 +11,14 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.Cake {
+  font-size: 20vh;
+}
+
+.footer {
+  background-color: #dc3545;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
